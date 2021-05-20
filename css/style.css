@@ -188,7 +188,7 @@ main {
   text-align: center;
   border: 1px #cc3333 solid;
   padding: 10px 0 0 0;
-  margin: 5px 5px 5px 5px;
+  margin: 5px 3px 5px 3px;
   float: left;
   display: inline;
   position: relative;
@@ -263,7 +263,7 @@ main {
   float: top right;
   margin: 10px 5px 0px 5px;
   width: 134px;
-  height: 354px;
+  height: 268px;
   position: sticky;
   top: 274px;
   z-index: 2;
@@ -294,7 +294,7 @@ main {
   font-family: Arial;
   font-size: 20px;
   color: white;
-  width: 1119px;
+  width: 85.55%;
   margin: 5px 0px;
   padding: 2px 5px;
   background-color: #cc3333;
@@ -327,16 +327,6 @@ main {
   color: #cc3333;
   font-size: 22px;
   font-family: Arial;
-}
-
-.best_item {
-  background-color: #cc3333ec;
-  position: absolute;
-  width: 35px;
-  height: 35px;
-  border-radius: 50%; /*50%=circle из квардрата*/
-  z-index: 1;
-  margin: 2px;
 }
 
 .best_item span {
